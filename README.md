@@ -1,0 +1,2 @@
+# learnAbaqus
+Abaqus simulation models.
