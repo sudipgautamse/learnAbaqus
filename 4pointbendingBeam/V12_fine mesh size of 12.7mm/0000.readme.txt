@@ -13,3 +13,8 @@ Beam height = 250 mm
 Rebar diameter = 2-16d T, 2-12d C and 5d stirrups @76.2 mm c/c but no stirrups at middle loading points.
 Support points = 101.6 mm & 1422.4 mm
 Loading points: 558.8 mm & 965.2 mm
+
+mesh size = 12.7mm
+analysis property used 
+Concrete and steel = C3D8R
+Rebar = T3D2

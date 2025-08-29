@@ -1,0 +1,20 @@
+This is 4 point bending beam analysis using Abaqus.
+Concrete Damaged Plasticity CDP model was used for beam
+Elasto-plastic model was used for rebar
+Elastic model was used for steel supports
+simulation time = 1 seconds
+simulation data print step = 0.05 seconds / 20 steps
+Solver used = Dynamic Implicit
+
+Geometry information:
+Beam length = 1524 mm
+Beam width = 152.4 mm
+Beam height = 250 mm
+Rebar diameter = 2-16d T, 2-12d C and 5d stirrups @76.2 mm c/c but no stirrups at middle loading points.
+Support points = 101.6 mm & 1422.4 mm
+Loading points: 558.8 mm & 965.2 mm
+
+mesh size = 25.4mm
+analysis property used 
+Concrete and steel = C3D8R
+Rebar = T3D2
